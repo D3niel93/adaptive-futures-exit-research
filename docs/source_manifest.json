@@ -1,0 +1,14 @@
+[
+  {
+    "source_relative_path": "backtest_adaptive_tp_sl_continuation_2025.py",
+    "original_sha256": "19795FA0CD9657ABB0CA0EB563F365B517AFA221CBF899D3B47FEE27CE6A3E9C",
+    "published_path": "archive/backtest_adaptive_tp_sl_continuation_2025.py",
+    "note": "Sanitized research source; archived scripts need original private layout and dependencies."
+  },
+  {
+    "source_relative_path": "walkforward_adaptive_tp_sl_2026.py",
+    "original_sha256": "2C191ECE7A961F82424C492D042B4DB1A8657ACB68B08A1039EDDA45146B8B51",
+    "published_path": "archive/walkforward_adaptive_tp_sl_2026.py",
+    "note": "Sanitized research source; archived scripts need original private layout and dependencies."
+  }
+]
